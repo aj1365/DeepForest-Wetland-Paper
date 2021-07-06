@@ -1,10 +1,13 @@
 # DeepForestPaper
 
+
 Here is the code for the
 
 "Deep Forest classifier for wetland mapping using the combination of Sentinel-1 and Sentinel-2 data"
 
 paper.
+
+
 
 Using Google Colab, I recommend you to use the 
 

@@ -7,7 +7,7 @@ Here are the codes for the "Deep Forest classifier for wetland mapping using the
 **Using Google Colab, I recommend you to use the "DeepForest_v2.ipynb" for your limited computing space.**
 
 
-The paper is published in GIScience & Remote Sensing (TGRS) journal.
+The paper is published in GIScience & Remote Sensing journal.
 
  
 
